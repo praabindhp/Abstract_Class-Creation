@@ -4,7 +4,7 @@ abstract class Shape
     int a=3,b=4;
     abstract public void print_area();
 }
-class Rectangle extends 
+class Rectangle extends Shape
 {
     public int area_rect;
 
