@@ -14,7 +14,7 @@ class Rectangle extends Shape
         System.out.println("The Area Of Rectangle Is: "+area_rect);
     }
 }
-class Triangle extends 
+class Triangle extends Shape
 {
     public int area_tri;
 
