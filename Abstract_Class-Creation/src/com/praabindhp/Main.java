@@ -1,5 +1,5 @@
 package com.praabindhp;
-abstract class 
+abstract class Shape
 {
     int a=3,b=4;
     abstract public void print_area();
