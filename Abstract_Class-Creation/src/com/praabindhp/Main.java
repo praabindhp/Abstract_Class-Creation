@@ -1,10 +1,10 @@
 package com.praabindhp;
-abstract class Shape
+abstract class 
 {
     int a=3,b=4;
     abstract public void print_area();
 }
-class Rectangle extends Shape
+class Rectangle extends 
 {
     public int area_rect;
 
@@ -14,7 +14,7 @@ class Rectangle extends Shape
         System.out.println("The Area Of Rectangle Is: "+area_rect);
     }
 }
-class Triangle extends Shape
+class Triangle extends 
 {
     public int area_tri;
 
@@ -24,7 +24,7 @@ class Triangle extends Shape
         System.out.println("The Area Of Triangle Is: "+area_tri);
     }
 }
-class Circle extends Shape
+class Circle extends 
 {
     public int area_cir;
 
