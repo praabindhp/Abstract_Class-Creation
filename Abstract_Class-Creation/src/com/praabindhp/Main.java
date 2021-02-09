@@ -24,7 +24,7 @@ class Triangle extends Shape
         System.out.println("The Area Of Triangle Is: "+area_tri);
     }
 }
-class Circle extends 
+class Circle extends Shape
 {
     public int area_cir;
 
